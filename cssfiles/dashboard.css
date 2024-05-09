@@ -378,8 +378,7 @@ form{
     width: 50%;
   
 } 
- .formbox .rowB .inputbox {
-    width: 100%;
+ 
  }
  .inputbox span{
     color: var(--color-bg1);
